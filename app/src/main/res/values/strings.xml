@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FootballView</string>
+    <string-array name="competition_name">
+        <item>Английская Премьер-лига</item>
+        <item>Ла Лига</item>
+        <item>Серия А</item>
+        <item>Немецкая футбольная Бундеслига</item>
+        <item>Французская Лига 1</item>
+    </string-array>
+</resources>
